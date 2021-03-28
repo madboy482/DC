@@ -1,7 +1,7 @@
-FROM madboy482/Omk:alpine
+FROM madboy482/DC-Bot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/madboy482/Omk.git /root/userbot
+RUN git clone https://github.com/madboy482/DC-Bot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
