@@ -1,4 +1,4 @@
-# Omk-Heroku
+# DC-Heroku
 
 This is just the heroku support source...
 
